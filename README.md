@@ -18,6 +18,6 @@ The map visualization is customizable. The user can adjust it to their preferenc
 
 This page shows an overview of a team's performance throughout the current season. The team is chosen via a slicer. The page includes the team's home and away game results. The page will also provide key statistics used to determine how well a team is doing. Key statistics include the average number of points scored (and how it compares to the average number of points conceded), average rebounds per game, average steals per game, 3-point field goal percentage and overall field goal percentage. The page will also show how their points scored have been distributed amongst the roster. The entire roster is also displayed with detailed season statistics. It is easy for users to find the good vs the bad for each team as the colour scheme provides a quick indication of how a team is doing. Below, you can see how a low-ranked team's view can differ from one of the league's best. 
 
-<img width="709" alt="image" src="https://github.com/zakirdawood/NBA_Dashboard/assets/71907707/1acc27f4-fc7d-4873-9e9a-093ed98e9f5d">
-<img width="710" alt="image" src="https://github.com/zakirdawood/NBA_Dashboard/assets/71907707/9f27804e-0c5e-49ba-8419-79c007412e4a">
-<img width="112" alt="image" src="https://github.com/zakirdawood/NBA_Dashboard/assets/71907707/c7fe2570-d9a3-45cd-8613-5f5bb3ae89cd">
+<img width="709" alt="image" src="https://github.com/zakirdawood/NBA_Dashboard/assets/71907707/1acc27f4-fc7d-4873-9e9a-093ed98e9f5d"> <br>
+<img width="710" alt="image" src="https://github.com/zakirdawood/NBA_Dashboard/assets/71907707/9f27804e-0c5e-49ba-8419-79c007412e4a"> <br>
+<img width="112" alt="image" src="https://github.com/zakirdawood/NBA_Dashboard/assets/71907707/c7fe2570-d9a3-45cd-8613-5f5bb3ae89cd"> <br>
