@@ -35,3 +35,9 @@ The players with the best averages in multiple categories are shown here. The fi
 <img width="653" alt="image" src="https://github.com/zakirdawood/NBA_Dashboard/assets/71907707/0980a28d-aaf7-4286-ad4d-067ad9d59044">
 
 # League Leaders (Teams)
+The same format is followed as the Players version.
+
+<img width="656" alt="image" src="https://github.com/zakirdawood/NBA_Dashboard/assets/71907707/1703fc08-3888-45b5-80d9-02faf6d4ac30"> <br>
+<img width="656" alt="image" src="https://github.com/zakirdawood/NBA_Dashboard/assets/71907707/bd476452-52e2-4376-a15c-3779fe6cbbc7">
+
+
