@@ -29,5 +29,9 @@ This page shows an overview of a team's performance throughout the current seaso
 # Historic Data
 
 # League Leaders (Players)
+The players with the best averages in multiple categories are shown here. The first page has the values looked at commonly whereas the second page goes into further depth. The visuals follow a gradient colour pattern to identify categories with larger disparities. Filters are also provided on the top left to focus on conferences and/or divisions. All categories will include a minimum number of games the players must have played to avoid outliers. Tooltips provide more information on the player's team.
+
+<img width="656" alt="image" src="https://github.com/zakirdawood/NBA_Dashboard/assets/71907707/5c6bd380-1e97-4ba6-8303-49764b073107"> <br>
+<img width="653" alt="image" src="https://github.com/zakirdawood/NBA_Dashboard/assets/71907707/0980a28d-aaf7-4286-ad4d-067ad9d59044">
 
 # League Leaders (Teams)
