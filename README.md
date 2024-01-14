@@ -25,6 +25,10 @@ This page shows an overview of a team's performance throughout the current seaso
 # Performance Variation
 
 # Performance Against Opponents
+This page shows the all-time home and away performance of a team against different opponents, divisions and conferences using a tree map and funnel graphs. Upon hovering over, tooltips will show the percentage. Win percentages by season are also available. The page is interactive, allowing the user to click on one part of a visual to filter the rest of the page, as shown in the second picture.
+
+<img width="638" alt="image" src="https://github.com/zakirdawood/NBA_Dashboard/assets/71907707/1a361f8c-60d4-4255-8d28-c54e2b87dfc8">
+<img width="638" alt="image" src="https://github.com/zakirdawood/NBA_Dashboard/assets/71907707/9f430b00-9fa6-418b-9a02-d653f1e9238c">
 
 # Historic Data
 
